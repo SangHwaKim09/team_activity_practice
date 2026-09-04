@@ -1,5 +1,9 @@
 ## 배달로봇 사양
+<<<<<<< HEAD
 - 2D LiDAR(15Hz, 최대 감지거리 12m)
+=======
+- 2D LiDAR(15Hz, 360도)
+>>>>>>> branch-b
 - RGB 카메라(60 fps, 720p)
 - IMU(400Hz)
 - 바퀴 엔코더(2KHz)
